@@ -1,0 +1,24 @@
+{
+  "choices": [
+    {
+      "decision": {
+        "headline": "Greenville, South Carolina",
+        "url": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/greenville-south-caroline-liberty-bridge-2018WTG1117.jpg?itok=vDBCtZbO"
+      },
+      "disliked": {
+        "headline": "Šolta, Croatia",
+        "url": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/solta-croatia-necujam-bay-2018WTG1117.jpg?itok=8ZawM2cq"
+      }
+    },
+    {
+      "decision": {
+        "headline": "Šolta, Croatia",
+        "url": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/solta-croatia-necujam-bay-2018WTG1117.jpg?itok=8ZawM2cq"
+      },
+      "disliked": {
+        "headline": "Greenville, South Carolina",
+        "url": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/greenville-south-caroline-liberty-bridge-2018WTG1117.jpg?itok=vDBCtZbO"
+      }
+    }
+  ]
+}

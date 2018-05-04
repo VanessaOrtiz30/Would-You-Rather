@@ -1,0 +1,205 @@
+{
+  "headline": "Would You Rather?",
+  "data": [
+    {
+      "name": "Šolta, Croatia",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/solta-croatia-necujam-bay-2018WTG1117.jpg?itok=8ZawM2cq"
+    },
+    {
+      "name": "Greenville, South Carolina",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/greenville-south-caroline-liberty-bridge-2018WTG1117.jpg?itok=vDBCtZbO"
+    },
+    {
+      "name": "Grenada",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/grenada-grand-anse-beach-2018WTG1117.jpg?itok=sdmAtZtr"
+    },
+    {
+      "name": "Buenos Aires, Argentina",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/buenos-aires-argentina-planetarium-2018WTG1117.jpg?itok=KyLLg1Y_"
+    },
+    {
+      "name": "Los Cabos, Mexico",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/cabo-mexico-harbor-2018WTG1117.jpg?itok=Z5IPDyEB"
+    },
+    {
+      "name": "Walla Walla Valley, Washington",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/walla-walla-washington-vineyard-2018WTG1117.jpg?itok=4gpgv0wR"
+    },
+    {
+      "name": "Uzbekistan",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/uzbekistan-samarkand-registan-2018WTG1117.jpg?itok=E6XUF20c"
+    },
+    {
+      "name": "Egypt",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/egypt-giza-pyramids-2018WTG1117.jpg?itok=0TGuSYxo"
+    },
+    {
+      "name": "Marrakesh, Morocco",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/marrakesh-morocco-fna-market-square-2018WTG1117.jpg?itok=-8aevfIG"
+    },
+    {
+      "name": "Fiji",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/fiji-wakaya-island-2018WTG1117.jpg?itok=ybq1a4CB"
+    },
+    {
+      "name": "Albuquerque, New Mexico",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/albuquerque-new-mexico-skyline-2018WTG1117.jpg?itok=ncvc-d3r"
+    },
+    {
+      "name": "Zambia",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/zambia-liuwa-plain-national-park-lion-2018WTG1117.jpg?itok=Zii19AHK"
+    },
+    {
+      "name": "Archipelago Sea, Finland",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/finland-archipelago-turku-finland-2018WTG1117.jpg?itok=Lqvov0oG"
+    },
+    {
+      "name": "Colombia’s Pacific Coast",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/colombia-coast-nuqui-beach-2018WTG1117.jpg?itok=qa83a5eX"
+    },
+    {
+      "name": "Iguazú Falls, Argentina and Brazil",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/iguazu-falls-argentina-2018wtg1117.jpg?itok=OOdOdgz9"
+    },
+    {
+      "name": "Salina Island, Italy",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/salina-italy-island-malfa-2018WTG1117.jpg?itok=rtzXVkkM"
+    },
+    {
+      "name": "Montenegro",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/montenegro-kotor-bay-2018WTG1117.jpg?itok=GVJClYLO"
+    },
+    {
+      "name": "Toronto, Canada",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/toronto-canada-streets-2018WTG1117.jpg?itok=ovL_BGe2"
+    },
+    {
+      "name": "Pyeongchang, South Korea",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/pyeongchang-south-korea-temple-2018WTG1117.jpg?itok=8RWbqPbw"
+    },
+    {
+      "name": "San Antonio, Texas",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/san-antonio-texas-at-night-2018WTG1117.jpg?itok=7qehx936"
+    },
+    {
+      "name": "Valletta, Malta",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/valletta-malta-boats-2018WTG1117.jpg?itok=0xNdG4ao"
+    },
+    {
+      "name": "Ireland",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/ireland-rock-of-cashel-2018WTG1117.jpg?itok=WgC9In1n"
+    },
+    {
+      "name": "Jordan",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/jordan-wadi-rum-2018WTG1117.jpg?itok=kFm91RQG"
+    },
+    {
+      "name": "Bangkok, Thailand",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509578045/bangkok-thailand-emerald-buddha-temple-2018WTG1117.jpg?itok=BxBL7pli"
+    },
+    {
+      "name": "Mauritius",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/mauritius-one-and-only-le-saint-geran-2018WTG1117.jpg?itok=LiTdsy-j"
+    },
+    {
+      "name": "The Peloponnese, Greece",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/southern-peloponnese-greece-eumelia-2018WTG1117.jpg?itok=8yYcQHjH"
+    },
+    {
+      "name": "São Paulo, Brazil",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/sao-paulo-brazil-palacio-tangara-2018WTG1117.jpg?itok=Pv9FnUgj"
+    },
+    {
+      "name": "The Berkshires, Massachusetts",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/berkshires-massachusetts-mass-moca-2018WTG1117.jpg?itok=xCB4A8Xd"
+    },
+    {
+      "name": "Luang Prabang, Laos",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/luang-prabang-laos-mandalao-elephant-sanctuary-2018WTG1117.jpg?itok=aYfO2MNR"
+    },
+    {
+      "name": "New Orleans, Louisiana",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/new-orleans-world-war-ii-museum-2018WTG1117.jpg?itok=z3x86g0s"
+    },
+    {
+      "name": "Boise, Idaho",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/boise-idaho-city-market-2018WTG1117.jpg?itok=mEbeXcQJ"
+    },
+    {
+      "name": "Mexico City, Mexico",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/mexico-city-design-week-2018WTG1117.jpg?itok=KkeTNwKv"
+    },
+    {
+      "name": "The Bahamas",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/bahamas-baha-mar-complex-2018WTG1117.jpg?itok=NHnmwFn-"
+    },
+    {
+      "name": "Abu Dhabi",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/abu-dhabi-louvre-museum-2018WTG1117.jpg?itok=cm_xI2hC"
+    },
+    {
+      "name": "Shanghai, China",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/shanghai-china-w-hotel-2018WTG1117.jpg?itok=lVy18MZD"
+    },
+    {
+      "name": "Copenhagen, Denmark",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/copenhagen-denmark-barr-2018WTG1117.jpg?itok=6HDlzy49"
+    },
+    {
+      "name": "Brussels, Belgium",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/brussels-belgium-bar-jam-hotel-2018WTG1117.jpg?itok=nAQ2_BqK"
+    },
+    {
+      "name": "Mornington Peninsula, Australia",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/mornington-peninsula-australia-pt-leo-estate-2018WTG1117.jpg?itok=AKNECLya"
+    },
+    {
+      "name": "Mendoza, Argentina",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/mendoza-argentina-vines-of-mendoza-2018WTG1117.jpg?itok=cVHJaA3H"
+    },
+    {
+      "name": "Big Sur, California",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/big-sur-california-ventana-hotel-2018WTG1117.jpg?itok=LfpSBLNq"
+    },
+    {
+      "name": "Tel Aviv, Israel",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/tel-aviv-israel-market-house-hotel-2018WTG1117.jpg?itok=rpuRONd3"
+    },
+    {
+      "name": "Washington, D.C.",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577149/washington-dc-the-wharf-2018WTG1117.jpg?itok=DmYJwyIG"
+    },
+    {
+      "name": "Bali",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509577253/bali-indonesia-capella-ubud-hotel-2018WTG1117.jpg?itok=_-Vl1imK"
+    },
+    {
+      "name": "Southern Sri Lanka",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576995/sri-lanka-galle-fort-2018WTG1117.jpg?itok=2LzB5Os0"
+    },
+    {
+      "name": "Greenland",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576995/greenland-disko-bay-zodiac-2018WTG1117.jpg?itok=-iK9IHDv"
+    },
+    {
+      "name": "Nagambie Lakes, Australia",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576781/nagambie-lakes-australia-mitchelton-winery-2018WTG1117.jpg?itok=A4aV4BJK"
+    },
+    {
+      "name": "Slovenia",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576995/slovenia-vipava-valley-2018WTG1117.jpg?itok=0LR-JiZb"
+    },
+    {
+      "name": "Edmonton, Alberta",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576781/edmonton-alberta-canada-art-gallery-2018WTG1117.jpg?itok=fQI4H9jj"
+    },
+    {
+      "name": "Iya Valley, Japan",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576781/iya-valley-japan-kazurabashi-bridge-2018WTG1117.jpg?itok=numpdadf"
+    },
+    {
+      "name": "Bayreuth, Germany",
+      "image": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1509576781/bayreuth-germany-opera-house-2018WTG1117.jpg?itok=Rdo94tnW"
+    }
+  ]
+}
